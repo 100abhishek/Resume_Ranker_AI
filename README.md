@@ -1,8 +1,3 @@
-# Resume Ranker AI
-
-(your existing description continues below...)
-
-
 # 🧠 ResumeRanker AI
 
 ResumeRanker AI is an intelligent application that matches resumes with job descriptions using advanced semantic similarity techniques powered by Sentence Transformers. It's built to help recruiters, hiring managers, and job seekers streamline the resume screening process.
