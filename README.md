@@ -1,15 +1,3 @@
----
-title: Resume Ranker AI
-emoji: 🚀
-colorFrom: indigo
-colorTo: blue
-sdk: gradio
-sdk_version: 5.25.2
-app_file: app.py
-pinned: true
-license: mit
----
-
 # Resume Ranker AI
 
 (your existing description continues below...)
