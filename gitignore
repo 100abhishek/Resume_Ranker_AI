@@ -1,0 +1,49 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac OS and Linux hidden files
+.DS_Store
+*.swp
+*.swo
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and runtime files
+*.log
+*.pid
+*.sqlite3
+*.db
+
+# VSCode / PyCharm / JetBrains IDEs
+.vscode/
+.idea/
+
+# Hugging Face / Gradio artifacts
+__results__/
+assets/
+*.csv
+*.png
+*.pdf
+*.docx
+
+# Optional: ignore local test uploads
+uploads/
+downloads/

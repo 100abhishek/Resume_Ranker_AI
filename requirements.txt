@@ -1,0 +1,8 @@
+gradio==4.29.0
+transformers
+torch
+matplotlib
+pdfplumber
+python-docx
+scikit-learn
+sentence-transformers
